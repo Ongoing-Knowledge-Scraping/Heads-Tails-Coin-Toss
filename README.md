@@ -3,7 +3,7 @@ Heads / Tails coin toss using the imported random module via random.randint()
 
 ## Heads Tails Coin Toss ##
 
-![Heads Tails](<https://github.com/Ongoing-Knowledge-Scraping/Treasure-Island/blob/main/Treasure-Island.gif> "Running the code")
+![Heads Tails](<https://github.com/Ongoing-Knowledge-Scraping/Heads-Tails-Coin-Toss/blob/main/Heads-Tails-Coin-Toss.gif> "Running the code")
 
 ## View on Replit ##
 
